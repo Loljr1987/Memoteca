@@ -1,28 +1,46 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "We are the champions my friends!!!",
-      "autoria": "Queen",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
+      "id": "1",
       "conteudo": "Na minha máquina funciona!",
       "autoria": "Dev da madrugada",
       "modelo": "modelo2"
     },
     {
-      "id": 3,
+      "id": "2",
       "conteudo": "Continue a codar... continue a codar...",
       "autoria": "Dory programadora",
       "modelo": "modelo3"
     },
     {
+      "id": "3",
       "conteudo": "Testando função de editar",
-      "autoria": "Angular ",
-      "modelo": "modelo2",
-      "id": 4
+      "autoria": "Angular - Editado",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "4",
+      "conteudo": "Somente quem já caiu, sabe o valor da queda.",
+      "autoria": "O Capoeira",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "5",
+      "conteudo": "Só dá valor a perda, quem um dia já perdeu algo na vida.",
+      "autoria": "Elixir de Parigot",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "6",
+      "conteudo": "Jamais diga:desta água jamais beberei!",
+      "autoria": "Sei lá",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "7",
+      "conteudo": "Se eu for aí e achar, vou esfregar na tua cara!",
+      "autoria": "Mãe",
+      "modelo": "modelo3"
     }
   ]
 }
